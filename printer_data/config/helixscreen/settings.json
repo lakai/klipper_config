@@ -1040,7 +1040,7 @@
             "temperature_sensor mcu_temp",
             "temperature_sensor enclosure_temp"
           ],
-          "timestamp": "2026-07-16T14:07:31Z"
+          "timestamp": "2026-07-16T14:20:15Z"
         },
         "optional": null
       },
