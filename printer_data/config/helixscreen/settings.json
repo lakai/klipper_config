@@ -999,7 +999,8 @@
           "fan_generic T2_partfan",
           "heater_fan T3_hotend_fan",
           "fan_generic T3_partfan",
-          "controller_fan controller_fan"
+          "controller_fan controller_fan",
+          "fan_generic BedFans"
         ],
         "last_snapshot": {
           "fans": [
