@@ -1,15 +1,9 @@
 .env
 secrets.conf
-printer-[0-9]*_[0-9]*.cfg
-
 *.swp
-axiscope.bak
 *.tmp
-*.bkp
 printer-[0-9]*_[0-9]*.cfg
-*.csv
 axiscope.bak
-*.zip
 *.bkp
 *.csv
 *.zip
