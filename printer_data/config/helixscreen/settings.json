@@ -13,6 +13,7 @@
     "drm_device": "",
     "gcode_render_mode": 0,
     "gpu_3d_blocked": false,
+    "gpu_blur_blocked": false,
     "screensaver_type": 1,
     "sleep_sec": 0,
     "sleep_while_printing": false,
