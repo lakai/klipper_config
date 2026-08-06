@@ -1007,12 +1007,6 @@
           "fans": [
             "heater_fan T0_hotend_fan",
             "fan_generic T0_partfan",
-            "heater_fan T1_hotend_fan",
-            "fan_generic T1_partfan",
-            "heater_fan T2_hotend_fan",
-            "fan_generic T2_partfan",
-            "heater_fan T3_hotend_fan",
-            "fan_generic T3_partfan",
             "controller_fan controller_fan",
             "heater_fan exhaust_fan",
             "fan_generic BedFans"
@@ -1020,29 +1014,20 @@
           "filament_sensors": [],
           "heaters": [
             "heater_bed",
-            "extruder",
-            "extruder1",
-            "extruder2",
-            "extruder3"
+            "extruder"
           ],
           "leds": [
             "neopixel T0_leds",
-            "neopixel T1_leds",
-            "neopixel T2_leds",
-            "neopixel T3_leds",
             "output_pin caselight",
             "neopixel sb_leds"
           ],
           "sensors": [
             "temperature_sensor EBBT0",
-            "temperature_sensor EBBT1",
-            "temperature_sensor EBBT2",
-            "temperature_sensor EBBT3",
             "temperature_sensor Cartographer",
             "temperature_sensor mcu_temp",
             "temperature_sensor enclosure_temp"
           ],
-          "timestamp": "2026-08-06T00:29:13Z"
+          "timestamp": "2026-08-06T17:33:24Z"
         },
         "optional": null
       },
