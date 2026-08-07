@@ -62,14 +62,6 @@
       },
       {
         "phases": {
-          "7": 89
-        },
-        "temp_bucket": 2,
-        "timestamp": 1781598157,
-        "total": 220
-      },
-      {
-        "phases": {
           "7": 69
         },
         "temp_bucket": 2,
@@ -139,6 +131,14 @@
         "temp_bucket": 2,
         "timestamp": 1784711015,
         "total": 260
+      },
+      {
+        "phases": {
+          "7": 108
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786079455,
+        "total": 227
       }
     ]
   },
@@ -1027,7 +1027,7 @@
             "temperature_sensor mcu_temp",
             "temperature_sensor enclosure_temp"
           ],
-          "timestamp": "2026-08-07T04:51:48Z"
+          "timestamp": "2026-08-07T05:16:07Z"
         },
         "optional": null
       },
@@ -1398,7 +1398,7 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 0.5579643249511719
+        "heat_rate": 0.727385938167572
       },
       "heater_bed": {
         "heat_rate": 6.394256114959717
